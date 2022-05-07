@@ -4,7 +4,7 @@ function subscribirse(){
     alert("Las suscripciones se habilitarán pronto");
     let respuesta=confirm("¿Desea dejar una consulta online?");
     if(respuesta){
-        window.location.href = './contacto.html';
+        window.location.href = './veterinariaCuki/contacto.html';
     }
 }
 
